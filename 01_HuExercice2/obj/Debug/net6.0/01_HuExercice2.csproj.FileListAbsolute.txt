@@ -1,0 +1,15 @@
+C:\Users\Hussam\source\repos\01_HuExercice2\obj\Debug\net6.0\01_HuExercice2.csproj.AssemblyReference.cache
+C:\Users\Hussam\source\repos\01_HuExercice2\obj\Debug\net6.0\01_HuExercice2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hussam\source\repos\01_HuExercice2\obj\Debug\net6.0\01_HuExercice2.AssemblyInfoInputs.cache
+C:\Users\Hussam\source\repos\01_HuExercice2\obj\Debug\net6.0\01_HuExercice2.AssemblyInfo.cs
+C:\Users\Hussam\source\repos\01_HuExercice2\obj\Debug\net6.0\01_HuExercice2.csproj.CoreCompileInputs.cache
+C:\Users\Hussam\source\repos\01_HuExercice2\bin\Debug\net6.0\01_HuExercice2.exe
+C:\Users\Hussam\source\repos\01_HuExercice2\bin\Debug\net6.0\01_HuExercice2.deps.json
+C:\Users\Hussam\source\repos\01_HuExercice2\bin\Debug\net6.0\01_HuExercice2.runtimeconfig.json
+C:\Users\Hussam\source\repos\01_HuExercice2\bin\Debug\net6.0\01_HuExercice2.dll
+C:\Users\Hussam\source\repos\01_HuExercice2\bin\Debug\net6.0\ref\01_HuExercice2.dll
+C:\Users\Hussam\source\repos\01_HuExercice2\bin\Debug\net6.0\01_HuExercice2.pdb
+C:\Users\Hussam\source\repos\01_HuExercice2\obj\Debug\net6.0\01_HuExercice2.dll
+C:\Users\Hussam\source\repos\01_HuExercice2\obj\Debug\net6.0\ref\01_HuExercice2.dll
+C:\Users\Hussam\source\repos\01_HuExercice2\obj\Debug\net6.0\01_HuExercice2.pdb
+C:\Users\Hussam\source\repos\01_HuExercice2\obj\Debug\net6.0\01_HuExercice2.genruntimeconfig.cache
