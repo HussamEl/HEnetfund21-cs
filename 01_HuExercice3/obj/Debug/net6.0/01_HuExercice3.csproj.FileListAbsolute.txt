@@ -1,0 +1,15 @@
+D:\LEXICON\00 HE netfund21-cs\01_HuExercice3\obj\Debug\net6.0\01_HuExercice3.csproj.AssemblyReference.cache
+D:\LEXICON\00 HE netfund21-cs\01_HuExercice3\obj\Debug\net6.0\01_HuExercice3.GeneratedMSBuildEditorConfig.editorconfig
+D:\LEXICON\00 HE netfund21-cs\01_HuExercice3\obj\Debug\net6.0\01_HuExercice3.AssemblyInfoInputs.cache
+D:\LEXICON\00 HE netfund21-cs\01_HuExercice3\obj\Debug\net6.0\01_HuExercice3.AssemblyInfo.cs
+D:\LEXICON\00 HE netfund21-cs\01_HuExercice3\obj\Debug\net6.0\01_HuExercice3.csproj.CoreCompileInputs.cache
+D:\LEXICON\00 HE netfund21-cs\01_HuExercice3\bin\Debug\net6.0\01_HuExercice3.exe
+D:\LEXICON\00 HE netfund21-cs\01_HuExercice3\bin\Debug\net6.0\01_HuExercice3.deps.json
+D:\LEXICON\00 HE netfund21-cs\01_HuExercice3\bin\Debug\net6.0\01_HuExercice3.runtimeconfig.json
+D:\LEXICON\00 HE netfund21-cs\01_HuExercice3\bin\Debug\net6.0\01_HuExercice3.dll
+D:\LEXICON\00 HE netfund21-cs\01_HuExercice3\bin\Debug\net6.0\ref\01_HuExercice3.dll
+D:\LEXICON\00 HE netfund21-cs\01_HuExercice3\bin\Debug\net6.0\01_HuExercice3.pdb
+D:\LEXICON\00 HE netfund21-cs\01_HuExercice3\obj\Debug\net6.0\01_HuExercice3.dll
+D:\LEXICON\00 HE netfund21-cs\01_HuExercice3\obj\Debug\net6.0\ref\01_HuExercice3.dll
+D:\LEXICON\00 HE netfund21-cs\01_HuExercice3\obj\Debug\net6.0\01_HuExercice3.pdb
+D:\LEXICON\00 HE netfund21-cs\01_HuExercice3\obj\Debug\net6.0\01_HuExercice3.genruntimeconfig.cache
